@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danilocarva9
 - 👀 I’m a software engineer from Brazil, living in Cuiabá - MT
-- 🌱 I’m currently learning AWS/Angular
+- 🌱 I’m currently learning AWS/Docker
 - 📫 [dscarvalho.com](http://dscarvalho.com/)
 
 <!---
